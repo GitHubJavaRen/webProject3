@@ -1,0 +1,9 @@
+#divfoot {
+    width: 100%;
+    clear: both;
+    background-color: #efefef;
+    margin-top: 15px;
+    position: relative;
+    bottom: 2px;
+}
+
